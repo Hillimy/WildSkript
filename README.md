@@ -1,2 +1,1 @@
-#WildSkript
-http://dev.bukkit.org/bukkit-plugins/wildskript/
+#WildSkript by Hillimy!
